@@ -412,7 +412,7 @@ msgid "That emoji was not found. Use your own or pick from {prefix}lfg emojis"
 msgstr ""
 
 msgid "That event was not found on this server."
-msgstr ""
+msgstr "Cet évènement n'a pas été trouvé sur ce serveur."
 
 msgid "That group category is already defined for this server."
 msgstr ""
@@ -424,7 +424,7 @@ msgid "That is not a valid stat type for {game}."
 msgstr ""
 
 msgid "That leaderboard was not found, please try again."
-msgstr ""
+msgstr "Ce tableau des scores n'a pas été trouvé, veuillez réessayer."
 
 msgid "That match ID does not look valid, please try again."
 msgstr ""
@@ -451,7 +451,7 @@ msgid "That's not a valid platform, the options are: {platforms}"
 msgstr "Ce n'est pas une plateforme valide, les options sont : {platforms}"
 
 msgid "The account names don't match and may not work, try checking capitalisation. {user} vs. {account}"
-msgstr ""
+msgstr "Les noms de compte ne correspondent pas et peuvent ne pas marcher, vérifiez les majuscules/minuscules. {user} vs. {account}"
 
 msgid "The available platforms are {platforms}"
 msgstr ""
@@ -511,7 +511,7 @@ msgid "Updating {csgo_players_count} steam users found on this server."
 msgstr ""
 
 msgid "User {name} not found."
-msgstr ""
+msgstr "Le nom {name} n'a pas été trouvé."
 
 msgid "WARNING: This will attempt to remove Discord roles related to this Prestige role, are you sure you want to continue?"
 msgstr ""
